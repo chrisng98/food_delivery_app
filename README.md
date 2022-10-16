@@ -1,6 +1,6 @@
 # food_delivery_app
 
-A basic food delivery application that follow UI/UX of Jeehom at https://dribbble.com/shots/14754929-Food-Delivery-App and taught by the Youtuber - Fullstack School (Youtube link - https://www.youtube.com/channel/UCWiC79M4FJ-Ylvk7lkk3n5A)
+A basic food delivery application with screen painting that follow UI/UX of Jeehom at https://dribbble.com/shots/14754929-Food-Delivery-App
 
 Preview of the application
 
